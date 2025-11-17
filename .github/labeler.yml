@@ -1,0 +1,14 @@
+frontend:
+  - "app/**"
+  - "components/**"
+  - "lib/**"
+  - "public/**"
+  - "styles/**"
+  - "types/**"
+  - "utils/**"
+  - "_mock/**"
+
+devops:
+  - ".github/**"
+  - "pnpm-lock.yaml"
+  - "!app/**"
